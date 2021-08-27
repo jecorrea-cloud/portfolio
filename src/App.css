@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,21 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.App {
+  font-family: Chivo;
+}
+
+div.social-links button#linkedin{
+  background-image: url(./components/images/linkedin.png);
+  background-size:cover;
+}
+
+a img{
+  height: 125px;
+  width: 125px;
+  object-fit: cover;
+  margin: 5px;
+  justify-items: center;
 }
