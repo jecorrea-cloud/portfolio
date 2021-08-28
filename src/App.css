@@ -41,6 +41,11 @@
   font-family: Chivo;
 }
 
+body{
+  background-color: rgba(240, 248, 255, 0.938);
+  width:100vw;
+}
+
 div.social-links button#linkedin{
   background-image: url(./components/images/linkedin.png);
   background-size:cover;
