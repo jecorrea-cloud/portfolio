@@ -6,7 +6,7 @@ export default class Projects extends Component {
             <div>
                 Projects go here:
                 <br></br>
-                <a href="https://jecorrea-cloud.github.io/jecorrea-pokedex/" rel="opener noreferrer" target="_blank" >PokeDexter</a>
+                <a href="https://jecorrea-cloud.github.io/jecorrea-pokedex/" rel="opener noreferrer" target="_blank" >PokeDéxter</a>
             </div>
         )
     }

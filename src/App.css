@@ -46,8 +46,31 @@ body{
   width:100vw;
 }
 
-div.social-links button#linkedin{
-  background-image: url(./components/images/linkedin.png);
+div.img-container{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+div.social-links {
+  text-align: center;
+}
+
+div.social-links img#linkedin{
+  height: 15px;
+  width: 15px;
+  background-size:cover;
+}
+
+div.social-links img#github{
+  height: 15px;
+  width: 15px;
+  background-size:cover;
+}
+
+div.social-links img#medium{
+  height: 15px;
+  width: 15px;
   background-size:cover;
 }
 

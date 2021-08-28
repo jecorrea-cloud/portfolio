@@ -6,7 +6,7 @@ class NavBar extends Component {
     return (
       <div className="nav-bar">
         <NavLink to="/"><h1>Joaquin Correa</h1></NavLink>
-        <h3>Full stack software engineer specialized on front end development and with a passion to help others.</h3> <NavLink to="/">Projects</NavLink> <NavLink to="/about">About</NavLink>
+        <h4>Full stack software engineer specialized on front end development and with a passion to help others.</h4> <NavLink to="/">Projects</NavLink> <NavLink to="/about">About</NavLink>
       </div>
     );
   }
