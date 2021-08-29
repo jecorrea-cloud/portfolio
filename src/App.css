@@ -42,9 +42,13 @@
 }
 
 body{
-  background-color: rgba(240, 248, 255, 0.986);
+  background-color: rgb(240, 248, 255);
   min-height: 250%;
   width:100vw;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* margin-right: 100px; */
+  margin-left: 30px;
 }
 
 div.img-container{
@@ -83,12 +87,16 @@ a img{
   justify-items: center;
 }
 
+div.about-info{
+  margin-right: 100px; 
+}
+
 .inactive {
-  color: #fff;
+  color:rgb(162, 163, 163);
   text-decoration: none;
 }
 
 .active {
-  color: rgb(83, 80, 80);
+  color: rgb(66, 65, 65);
   text-decoration: none;
 }
