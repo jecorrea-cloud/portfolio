@@ -38,11 +38,11 @@
 } */
 
 .App {
-  font-family: Chivo;
+  font-family: 'Roboto Mono', monospace;
 }
 
 body{
-  background-color: rgb(240, 248, 255);
+  background-color: white;
   min-height: 250%;
   width:100vw;
   margin-top: 50px;
@@ -99,4 +99,8 @@ div.about-info{
 .active {
   color: rgb(66, 65, 65);
   text-decoration: none;
+}
+
+p{
+  font-family: 'Roboto Mono', monospace;
 }
