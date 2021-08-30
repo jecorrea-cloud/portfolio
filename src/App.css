@@ -91,12 +91,23 @@ div.about-info{
   margin-right: 100px; 
 }
 
+div.site-content{
+  
+}
+
 .inactive {
   color:rgb(162, 163, 163);
   text-decoration: none;
+  transition-property: color;
+  transition-duration: 1s;
 }
 
 .active {
+  color: rgb(66, 65, 65);
+  text-decoration: none;
+}
+
+.inactive:hover {
   color: rgb(66, 65, 65);
   text-decoration: none;
 }
