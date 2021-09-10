@@ -38,7 +38,7 @@
 } */
 
 .App {
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Chivo', monospace;
 }
 
 body{
@@ -134,7 +134,7 @@ div.about-info{
   font-size: 0;
 }
 
-.card .effect-img {
+.card .effect-img img{
   width: 100%;
   height: auto;
 }
@@ -172,3 +172,13 @@ div.about-info{
   font-size: 16px;
   margin: 0 0 20px 0;
 }
+
+/* div.site-content{
+  flex-wrap:wrap;
+  max-width: 600px;
+  height: 600px;
+  margin: 10px auto;
+  justify-content: space-around;
+  display: grid;
+  grid-gap: 10px;
+} */
