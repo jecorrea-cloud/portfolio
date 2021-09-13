@@ -15,10 +15,19 @@ export default class About extends Component {
                 </div>
 
                 <p>
-                    Hey! My name is Joaquin Correa and I am a full stack software engineer, specialized on front-end 
-                development. Recently, I graduated from the Flatiron School and now I am actively looking to make an entry into the IT world. 
-                Currently I reside on the Greater New York area. In my recent years I discovered we are in a world where we always need each other whether directly or indirectly. This is why I have interests in 
-                applying what I learn and constantly gain more knowledge to help others to the best of my extensions. I like to see myself as a teamplayer. Besides learning about my career, I have an interest in playing the ukulele, learning foreign languages, and enjoying metal and hard rock concerts. Feel free to reach out!
+                    My name is Joaquin Correa and I am a full stack software engineer, specialized on front-end 
+                development. I graduated recently from the Flatiron School and now actively looking to make an entry into the IT world. Some of the technologies I know are:
+                <ul>
+                    <li>Git</li>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>React.js</li>
+                    <li>SQL</li>
+                    <li>Ruby / Ruby on Rails</li>
+                </ul>
+                Currently I'm residing on the Greater New York area. In my recent years I discovered we are in a reality where we always need each other's help whether directly or indirectly. This is why I have an interest in 
+                applying what I learn and constantly gain more knowledge to help others to the best of my extensions. I like to see myself as a team player. Besides learning about my career, I have an interest in playing the ukulele, learning foreign languages, and enjoying metal and hard rock concerts. Feel free to reach out!
                 </p>
                 <br/>
                 <br/>
