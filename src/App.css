@@ -112,6 +112,11 @@ div.site-content{
   text-decoration: none;
 }
 
+.card .effect-link{
+  font-family: 'Roboto Mono', monospace;
+  color: #ffffff;
+}
+
 p{
   font-family: 'Roboto Mono', monospace;
 }
@@ -136,7 +141,7 @@ div.about-info{
 
 .card .effect-img img{
   width: 100%;
-  height: 150px;
+  height: 200px;
   padding: 50px, 50px, 50px, 50px;
 }
 
@@ -144,7 +149,7 @@ div.about-info{
   position: absolute;
   width: 100%;
   height: 100%;
-  padding: 30px;
+  padding: 30px 10px 10px 30px;
   top: calc(100% - 60px);
   left: 0;
   text-align: center;
