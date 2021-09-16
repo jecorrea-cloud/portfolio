@@ -16,7 +16,7 @@ export default class About extends Component {
 
                 <p>
                     My name is Joaquin Correa and I am a full stack software engineer, specialized on front-end 
-                development. I graduated recently from the Flatiron School and now actively looking to make an entry into the IT world. Some of the technologies I know are:
+                development and recently got my certificate from the Flatiron School. Some of the technologies I work with are:
                 <ul>
                     <li>Git</li>
                     <li>HTML</li>
@@ -26,7 +26,7 @@ export default class About extends Component {
                     <li>SQL</li>
                     <li>Ruby / Ruby on Rails</li>
                 </ul>
-                Currently I'm residing on the Greater New York area. In my recent years I discovered we are in a reality where we always need each other's help whether directly or indirectly. This is why I have an interest in 
+                Currently I residing on the Greater New York area. In my recent years I discovered we are in a reality where we always need each other's help whether directly or indirectly. This is why I have an interest in 
                 applying what I learn and constantly gain more knowledge to help others to the best of my extensions. I like to see myself as a team player. Besides learning about my career, I have an interest in playing the ukulele, learning foreign languages, and enjoying metal and hard rock concerts. Feel free to reach out!
                 </p>
                 <br/>

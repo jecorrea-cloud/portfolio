@@ -137,6 +137,7 @@ div.about-info{
 .card .effect-img img{
   width: 100%;
   height: 100px;
+  padding: 50px;
 }
 
 .card .effect-text {
@@ -184,4 +185,6 @@ div.site-content{
   grid-template-columns: repeat(auto-fill, minmax (200px, 1fr));
   object-fit: cover;
   grid-gap: 10px;
+  align-items: center;
+  justify-items: center;
 }
