@@ -19,7 +19,7 @@ export default class Projects extends Component {
 
                 <div class="card">
                     <div class="effect-img">
-                        <img src="https://i.ibb.co/VWHCcfs/Alive-journal.png" alt="poke"/>
+                        <img src="https://i.ibb.co/VWHCcfs/Alive-journal.png" alt="live-journal"/>
                     </div>
                     <div class="effect-text">
                         <h2>Alive-Journal</h2>
@@ -32,7 +32,7 @@ export default class Projects extends Component {
 
                 <div class="card">
                     <div class="effect-img">
-                        <img src="https://i.ibb.co/smPmtmN/bookcook.png" alt="poke"/>
+                        <img src="https://i.ibb.co/smPmtmN/bookcook.png" alt="bookcook"/>
                     </div>
                     <div class="effect-text">
                         <h2>BookCook</h2>
