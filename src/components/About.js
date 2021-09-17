@@ -16,7 +16,7 @@ export default class About extends Component {
 
                 <p>
                     My name is Joaquin Correa. I am a full stack software engineer, specialized on front-end 
-                development with a certificate from the Flatiron School. Some of the technologies I work with are:
+                development with a certificate from the <em>Flatiron School</em>. Some of the technologies I work with are:
                 <ul>
                     <li>Git</li>
                     <li>HTML</li>
