@@ -6,7 +6,7 @@ export default class Projects extends Component {
             <div className='site-content'>
                 <div class="card">
                     <div class="effect-img">
-                        <img src="https://i.ibb.co/tckNt0h/Poke-Dexter-Preview.png" alt="poke"/>
+                        <img src="https://i.ibb.co/vQZqZLm/Poke-card.png" alt="poke"/>
                     </div>
                     <div class="effect-text">
                         <h2>PokeDéxter</h2>
@@ -19,7 +19,7 @@ export default class Projects extends Component {
 
                 <div class="card">
                     <div class="effect-img">
-                        <img src="https://i.ibb.co/tckNt0h/Poke-Dexter-Preview.png" alt="poke"/>
+                        <img src="https://i.ibb.co/VWHCcfs/Alive-journal.png" alt="poke"/>
                     </div>
                     <div class="effect-text">
                         <h2>Alive-Journal</h2>
@@ -32,10 +32,10 @@ export default class Projects extends Component {
 
                 <div class="card">
                     <div class="effect-img">
-                        <img src="https://i.ibb.co/tckNt0h/Poke-Dexter-Preview.png" alt="poke"/>
+                        <img src="https://i.ibb.co/smPmtmN/bookcook.png" alt="poke"/>
                     </div>
                     <div class="effect-text">
-                        <h2>Book-Cook</h2>
+                        <h2>BookCook</h2>
                         <p>A recipe book made with React.js and Rails for the back-end</p>
                         <a class="effect-link" href="https://jecorrea-cloud.github.io/jecorrea-pokedex/" rel="opener noreferrer" target="_blank" >Site</a>
                         <br/>
