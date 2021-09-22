@@ -24,12 +24,13 @@ export default class About extends Component {
                     <li>CSS</li>
                     <li>JavaScript</li>
                     <li>React.js</li>
-                    <li>SQL</li>
                     <li>Ruby / Ruby on Rails</li>
+                    <li>SQL</li>
+    
                 </ul>
                 &nbsp; &nbsp; Currently I reside on the Greater New York metro area. In my recent years I discovered we always need each other's help whether directly or indirectly. This is why I have an interest in 
                 applying what I learn and constantly gain more knowledge to help others to the best of my extensions. I like to see myself as a team player. 
-                Besides learning about my career, I have an interest in volunteering for social causes and local events, playing the ukulele, learning foreign languages, and enjoying metal and hard rock concerts. Feel free to reach out!
+                Besides learning about my career, I have an interest in volunteering for social causes and local events, learning to play the ukulele, learning foreign languages, and enjoying metal/hard rock concerts. Feel free to reach out!
                 </p>
                 <br/>
                 <br/>
