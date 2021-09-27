@@ -3,6 +3,7 @@ import hidden from './images/hidden.jpg';
 import linkedin from './images/linkedin.png';
 import medium from './images/medium.png';
 import github from './images/github.png';
+import Joaquin_Correa_Resume_8_2021 from './images/Joaquin_Correa_Resume_8_2021.pdf';
 
 
 export default class About extends Component {
@@ -35,7 +36,9 @@ export default class About extends Component {
                 <br/>
                 <br/>
                 <div className="social-links">
-                <p>Download Resumé</p>
+                <a download href={Joaquin_Correa_Resume_8_2021} rel="opener noreferrer" target="_blank">Download Resumé</a>
+                <br/>
+                <br/>
                 <a target="_blank" href="https://www.linkedin.com/in/joaquin-e-correa/"><img id="linkedin" src={linkedin}></img></a>
                 <a target="_blank" href="https://github.com/jecorrea-cloud/"><img id="github" src={github}></img></a>
                 <a target="_blank" href="https://jecorrea-64269.medium.com/"><img id="medium" src={medium}></img></a>

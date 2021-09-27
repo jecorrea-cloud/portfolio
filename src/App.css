@@ -111,9 +111,9 @@ div.about-info{
   margin-right: 100px; 
 }
 
-div.site-content{
+/* div.site-content{
   
-}
+} */
 
 .inactive {
   color:rgb(162, 163, 163);
@@ -140,6 +140,17 @@ p{
     line-height: 1.8em;
     letter-spacing: .02em;
     text-rendering: optimizeLegibility;
+}
+
+a{
+  font-family: 'Chivo', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+    line-height: 1.8em;
+    letter-spacing: .02em;
+    text-rendering: optimizeLegibility;
+  
 }
 
 div.about-info{
