@@ -36,7 +36,7 @@ export default class About extends Component {
                 <br/>
                 <div className="social-links">
                 <p>Download Resumé</p>
-                <a target="_blank" href="https://www.linkedin.com/in/joaquin-correa-a64688181/"><img id="linkedin" src={linkedin}></img></a>
+                <a target="_blank" href="https://www.linkedin.com/in/joaquin-e-correa/"><img id="linkedin" src={linkedin}></img></a>
                 <a target="_blank" href="https://github.com/jecorrea-cloud/"><img id="github" src={github}></img></a>
                 <a target="_blank" href="https://jecorrea-64269.medium.com/"><img id="medium" src={medium}></img></a>
                 </div>
